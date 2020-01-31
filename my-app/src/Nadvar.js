@@ -4,7 +4,6 @@ import React from 'react';
 
 export default function Nadvar() {
     return (
-        <div>
         <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
             <div class="container">
                 <a class="navbar-brand" href="https://www.wikipedia.org/">Start Bootstrap</a>
@@ -28,10 +27,10 @@ export default function Nadvar() {
                         <a class="nav-link" href="https://www.wikipedia.org/">Contact</a>
                     </li>
                     </ul>
-                </div>
+                    </div>
             </div>
             </nav>
-            </div>
+        
     
     );
 

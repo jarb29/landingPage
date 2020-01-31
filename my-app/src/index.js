@@ -7,6 +7,7 @@ import 'jquery';
 import 'popper.js';
 import 'bootstrap';
 import * as serviceWorker from './serviceWorker';
+import './index.css'
 
 
 
